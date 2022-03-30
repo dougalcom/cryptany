@@ -1,0 +1,7 @@
+.form-control {
+	width: 250px;
+}
+
+input[type="file"] {
+	color: #415456
+}
